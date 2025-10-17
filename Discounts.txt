@@ -1,0 +1,10 @@
+receipt amount
+1000
+13
+parsley
+>%
+3
+5
+onion
+=f
+4

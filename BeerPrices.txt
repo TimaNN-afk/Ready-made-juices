@@ -1,0 +1,3 @@
+beer prices
+150
+400
